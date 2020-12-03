@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ My name is Vítor Oliveira, I'm Software Developer,  passionate developer of innovative Native and BackEnd Cross-Platform technologies. I always seek to update myself in my knowledge and in new trends that seek to be innovative. My goal is always to work in a team where it is possible to help the team to grow and be able to evolve together. Knowledge, when shared, is (much) better used.
+
+- 🔭 I’m currently working on my own products.
+- 📫 How to reach me: @vitordm on TT and Instagram
+- ⚡ Fun fact: I love "Coxinha" 
+
 <!--
 **vitordm/vitordm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
