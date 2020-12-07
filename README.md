@@ -1,10 +1,12 @@
 ### Hi there 👋
 
- My name is Vítor Oliveira, I'm Software Developer,  passionate developer of innovative Native and BackEnd Cross-Platform technologies. I always seek to update myself in my knowledge and in new trends that seek to be innovative. My goal is always to work in a team where it is possible to help the team to grow and be able to evolve together. Knowledge, when shared, is (much) better used.
-
 <p align="left">
-- 🔭 I’m currently working on my own products.
-- 📫 How to reach me: 
+ My name is Vítor Oliveira, I'm Software Developer with 5+ years experience. 
+I'm passionate developer of innovative Native and BackEnd Cross-Platform technologies. I always seek to update myself in my knowledge and in new trends that seek to be innovative. My goal is always to work in a team where it is possible to help the team to grow and be able to evolve together. Knowledge, when shared, is (much) better used.
+</p>  
+<p align="left">
+ 💪🏼 My skills: C#, PHP, Typescript + NodeJS, Xamarin.Forms.
+ 📫 How to reach me:
  </p>  
 <p align="left">
   <a href="https://www.instagram.com/vitordm/" alt="Instagram">
