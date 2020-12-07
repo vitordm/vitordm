@@ -6,6 +6,8 @@ I'm passionate developer of innovative Native and BackEnd Cross-Platform technol
 </p>  
 <p align="left">
  💪🏼 My skills: C#, PHP, Typescript + NodeJS, Xamarin.Forms.
+ </p> 
+ <p align="left">
  📫 How to reach me:
  </p>  
 <p align="left">
