@@ -2,9 +2,24 @@
 
  My name is Vítor Oliveira, I'm Software Developer,  passionate developer of innovative Native and BackEnd Cross-Platform technologies. I always seek to update myself in my knowledge and in new trends that seek to be innovative. My goal is always to work in a team where it is possible to help the team to grow and be able to evolve together. Knowledge, when shared, is (much) better used.
 
+<p align="left">
 - 🔭 I’m currently working on my own products.
-- 📫 How to reach me: @vitordm on TT and Instagram
+- 📫 How to reach me: 
+ </p>  
+<p align="left">
+  <a href="https://www.instagram.com/vitordm/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vitordm/"/></a>
+  
+  <a href="https://www.linkedin.com/in/vitor-gaudencio/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-gaudencio" /></a>
+  
+  <a href="https://t.me/oliveiravitor3" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logoColor=white&color=2CA5E0&url=https://t.me/oliveiravitor3&logo=Telegram" /></a>
+</p>  
+<p align="left">
 - ⚡ Fun fact: I love "Coxinha" 
+ </p>
+
 
 <!--
 **vitordm/vitordm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
