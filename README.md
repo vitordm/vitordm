@@ -11,13 +11,13 @@ I'm passionate developer of innovative Native and BackEnd Cross-Platform technol
  📫 How to reach me:
  </p>  
 <p align="left">
-  <a href="https://www.instagram.com/vitordm/" alt="Instagram">
+  <a href="https://www.instagram.com/vitordm/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vitordm/"/></a>
   
-  <a href="https://www.linkedin.com/in/vitor-gaudencio/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/vitor-gaudencio/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-gaudencio" /></a>
   
-  <a href="https://t.me/oliveiravitor3" alt="Linkedin">
+  <a href="https://t.me/oliveiravitor3" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logoColor=white&color=2CA5E0&url=https://t.me/oliveiravitor3&logo=Telegram" /></a>
 </p>  
 <p align="left">
