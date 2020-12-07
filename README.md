@@ -21,7 +21,7 @@ I'm passionate developer of innovative Native and BackEnd Cross-Platform technol
   <img src="https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logoColor=white&color=2CA5E0&url=https://t.me/oliveiravitor3&logo=Telegram" /></a>
 </p>  
 <p align="left">
-- ⚡ Fun fact: I love "Coxinha" 
+⚡ Fun fact: I love "Coxinha" 
  </p>
 
 
