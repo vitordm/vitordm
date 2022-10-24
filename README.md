@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
- My name is Vítor Oliveira, I'm *Software Engineer* with 8+ years experience, passionate about innovative technologies, I always seek to update myself in my knowledge and new trends, especially in technologies aimed at Cross-Platform.
+ My name is Vítor Oliveira, I'm <strong>Software Engineer</strong> with 8+ years experience, passionate about innovative technologies, I always seek to update myself in my knowledge and new trends, especially in technologies aimed at Cross-Platform.
 My goal is always to work in a team where it is possible to help the team to grow and be able to evolve together.
 Knowledge, when shared, is (much) better used.
 </p>  
