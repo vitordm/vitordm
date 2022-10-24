@@ -6,7 +6,7 @@ My goal is always to work in a team where it is possible to help the team to gro
 Knowledge, when shared, is (much) better used.
 </p>  
 <p align="left">
- 💪🏼 My skills: C#, PHP, Typescript + NodeJS, Xamarin.Forms.
+ 💪🏼 My skills: C#, GO, PHP, Typescript + NodeJS, Xamarin.Forms.
  </p> 
  <p align="left">
  📫 How to reach me:
