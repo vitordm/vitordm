@@ -11,7 +11,7 @@ Knowledge, when shared, is (much) better used.
  <p align="left">
  📫 How to reach me:
  </p>  
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/vitordm/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/vitordm/"/></a>
   
@@ -21,10 +21,6 @@ Knowledge, when shared, is (much) better used.
   <a href="https://t.me/oliveiravitor3" alt="Telegram" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logoColor=white&color=2CA5E0&url=https://t.me/oliveiravitor3&logo=Telegram" /></a>
 </p>  
-<p align="left">
-⚡ Fun fact: I love "Coxinha" 
- </p>
-
 
 <!--
 **vitordm/vitordm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
